@@ -1,0 +1,39 @@
+#cuerpo {
+  width: 400px;
+  height: 400px;
+  background-color: lightgray;
+  border: 15px solid black;
+}
+
+.ojos {
+  width: 150px;
+  height: 80px;
+  background-color: green;
+  border: 5px solid black;
+  display: inline-block;
+  position: relative;
+  left: 18px;
+  top: 15%;
+  margin: 10px;
+}
+
+#boca {
+  width: 334px;
+  height: 80px;
+  background-color: honeydew;
+  border: 5px solid black;
+  position: relative;
+  left: 28px;
+  top: 30%;
+}
+
+.diente {
+  width: 30px;
+  height: 40px;
+  background-color: lightgray;
+  display: inline-block;
+  position: relative;
+  left: 60px;
+  top: 20%;
+  margin: 5px;
+}
